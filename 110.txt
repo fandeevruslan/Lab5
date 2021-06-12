@@ -1,0 +1,14 @@
+using System; 
+
+namespace TestLesson0
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int x = 0; 
+            Console.WriteLine("Hello World!");
+
+        }
+    }
+}
